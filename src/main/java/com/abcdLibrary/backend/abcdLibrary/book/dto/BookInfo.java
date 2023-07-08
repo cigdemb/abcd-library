@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 public class BookInfo {
 
 
-    private int id;
+    private Long id;
 
     private int uuid;
 
